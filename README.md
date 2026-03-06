@@ -21,7 +21,3 @@ Para cada núcleo celular se calcularon 10 características principales, y de ca
 
 Para poder utilizar este trabajo, se recomienda descargar el documento con terminación .ipynb junto con el archivo .csv del dataset y colocarlos dentro de la misma carpeta. Esto es importante para que, al momento de ejecutar el notebook, el programa pueda acceder correctamente a los datos y cargar el dataset sin errores.
 
-- symmetry: simetría del núcleo.
-
-- fractal dimension: $$\text{coastline approximation} - 1$$
-
