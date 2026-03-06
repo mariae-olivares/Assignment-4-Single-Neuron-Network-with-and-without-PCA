@@ -4,8 +4,8 @@ Este repositorio contiene el trabajo realizado en conjunto con mis compañeros S
 
 El primer modelo fue entrenado utilizando las 30 características originales del dataset, mientras que el segundo modelo fue construido aplicando previamente Análisis de Componentes Principales (PCA) para reducir la dimensionalidad de los datos, conservando aproximadamente el 95% de la varianza explicada.
 
-En el archivo [assignment_PCA.ipynb](assignment_PCA.ipynb) se encuentra el desarrollo de los modelos.
-* HTML -> [assignment_PCA.html](assignment_PCA.html)
+En el archivo [assignment.ipynb](Assignment_4_Single_Neuron_Network_with_and_without_PCA_.ipynb) se encuentra el desarrollo de los modelos.
+* HTML -> [assignment.html](Assignment_4_Single_Neuron_Network_with_and_without_PCA_.html)
 
 **Información del dataset [wdbc.csv](wdbc.csv)**
 
