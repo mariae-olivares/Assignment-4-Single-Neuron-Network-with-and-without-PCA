@@ -4,6 +4,13 @@ Este repositorio contiene el trabajo realizado en conjunto con mis compañeros S
 
 El primer modelo fue entrenado utilizando las 30 características originales del dataset, mientras que el segundo modelo fue construido aplicando previamente Análisis de Componentes Principales (PCA) para reducir la dimensionalidad de los datos, conservando aproximadamente el 95% de la varianza explicada.
 
+En el archivo [assignment_PCA.ipynb](assignment_PCA.ipynb) se encuentra el desarrollo de los modelos.
+* HTML -> [assignment_PCA.html](assignment_PCA.html)
+
+**Información del dataset**
+
+[]()
+
 El dataset seleccionado para este proyecto es *Breast Cancer Wisconsin (Diagnostic)* (Mangasarian, 1993), recuperado del [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic). Este conjunto de datos se enfoca en el área médica, en la investigación para el diagnóstico del cáncer de mama.
 
 Su propósito principal es clasificar tumores como benignos o malignos a partir de características obtenidas de imágenes digitalizadas de aspiraciones con aguja fina (FNA) de masas mamarias.
@@ -35,3 +42,4 @@ $$
 - symmetry: simetría del núcleo.
 
 - fractal dimension: $$\text{coastline approximation} - 1$$
+
